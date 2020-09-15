@@ -3,7 +3,6 @@
 # SECRET_KEY = '<Flask WTF Secret Key>'
 
 
-
 import os
 
 class Config:
